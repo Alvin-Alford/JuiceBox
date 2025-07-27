@@ -41,4 +41,4 @@ The lower input voltage side makes it very hard to design as for a boost from 2.
 
 I used https://webench.ti.com/power-designer/switching-regulator/ to design a regulator it recommended using https://lcsc.com/product-detail/DC-DC-Converters_TI-TPSM53604RDAR_C2868001.html?s_z=n_TPSM53604RDA
 
-![Schematic for convertor.](images\convertor_schematic.PNG)
+![Schematic for convertor.](images/convertor_schematic.PNG)
