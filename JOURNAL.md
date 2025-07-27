@@ -34,3 +34,11 @@ https://www.ti.com/lit/ds/symlink/lm5157.pdf
 which is similar to
 
 https://www.ti.com/lit/ds/symlink/lm51571-q1.pdf?ts=1753170329297&ref_url=https%253A%252F%252Fwww.ti.com%252Fproduct%252FLM51571-Q1%252Fpart-details%252FLM51571QRTERQ1
+
+## 27/07/2025 Research
+
+The lower input voltage side makes it very hard to design as for a boost from 2.5v to 5v at 4A would require a input amperage of 10A i think so just going to do buck
+
+I used https://webench.ti.com/power-designer/switching-regulator/ to design a regulator it recommended using https://lcsc.com/product-detail/DC-DC-Converters_TI-TPSM53604RDAR_C2868001.html?s_z=n_TPSM53604RDA
+
+![Schematic for convertor.](images\convertor_schematic.PNG)
